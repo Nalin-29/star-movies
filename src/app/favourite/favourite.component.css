@@ -1,0 +1,27 @@
+img{
+    
+    width:100vw;
+    
+}
+
+#image  {
+width:20vw;
+height: 20vw;
+}
+
+#color{
+
+    background-color: whitesmoke;
+}
+
+#bcolor{
+
+    background-color: aliceblue;
+}
+
+
+@media (min-width: 576px) {
+    .stop {
+        column-count: 2;
+    }
+}
